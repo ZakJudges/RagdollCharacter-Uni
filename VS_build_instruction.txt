@@ -1,0 +1,4 @@
+To build the project in visual studio, use the following configuration:
+
+Debug, x86
+Start-up project should be set to "RagdollCharacter"
